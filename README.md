@@ -1,4 +1,8 @@
-# YZ-Ai-Studio
+<p align="center">
+  <img src="images/yzcanvas-logo.png" alt="YZCanvas · 火漆印章与手写 Canvas 标识" width="256" />
+</p>
+
+<h1 align="center">YZ-Ai-Studio</h1>
 
 ## YZCanvas · AI 无限画布
 
