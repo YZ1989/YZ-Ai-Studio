@@ -109,3 +109,7 @@ Windows 客户端发布、版本更新与使用说明。
 本仓库用于分发客户端安装包、更新签名、校验值与版本说明，不包含开发工作区、用户素材、账号凭据或签名私钥。
 
 YZCanvas 基于 TDCanvas 开发。客户端包含的上游代码继续适用 AGPL-3.0；发布仓库不改变原许可证及相关权利，许可证见 [LICENSE](LICENSE)。
+
+## 开源许可与来源
+
+YZCanvas 基于 TDCanvas 进行二次开发。TDCanvas 基于 [`basketikun/infinite-canvas`](https://github.com/basketikun/infinite-canvas) 开源项目进行二次开发。
